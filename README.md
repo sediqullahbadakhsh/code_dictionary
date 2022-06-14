@@ -2,6 +2,8 @@
 
 # Area code dictionary
 
+a simple app to get a given city's code which is pre stored as request.
+
 ## Built With
 
 - Major languages: Ruby
